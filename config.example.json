@@ -1,0 +1,38 @@
+{
+  "theme": "dark",
+  "width": 340,
+  "days_ahead": 7,
+  "max_events": 14,
+  "refresh_minutes": 5,
+  "always_on_top": false,
+  "timezone": "Asia/Jerusalem",
+  "font": "Segoe UI",
+  "calendars": [
+    {
+      "name": "מערכת טכניון",
+      "color": "#BF5AF2",
+      "url": "PASTE_SECRET_ICAL_URL_HERE"
+    },
+    {
+      "name": "מבחנים טכניון",
+      "color": "#FF453A",
+      "exams": true,
+      "url": "PASTE_SECRET_ICAL_URL_HERE"
+    },
+    {
+      "name": "אנייר",
+      "color": "#30D158",
+      "url": "PASTE_SECRET_ICAL_URL_HERE"
+    },
+    {
+      "name": "שוליך",
+      "color": "#FFD60A",
+      "url": "PASTE_SECRET_ICAL_URL_HERE"
+    },
+    {
+      "name": "eli.dayan.biz (ראשי)",
+      "color": "#0A84FF",
+      "url": "PASTE_SECRET_ICAL_URL_HERE"
+    }
+  ]
+}
